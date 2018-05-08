@@ -1,0 +1,21 @@
+{
+  "name": "vk-art-books-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getlinks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/00doublezero/vk-art-books-downloader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/00doublezero/vk-art-books-downloader#readme",
+  "dependencies": {
+    "jsonfile": "^4.0.0",
+    "puppeteer": "^1.3.0",
+    "winston": "^2.4.2"
+  }
+}
